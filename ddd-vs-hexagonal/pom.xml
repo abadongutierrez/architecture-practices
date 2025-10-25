@@ -12,6 +12,7 @@
         <module>todos-hx</module>
         <module>todos-ddd</module>
         <module>todos-transcript</module>
+        <module>todos-clean</module>
         <module>todos-out-persistence</module>
         <module>todos-in-web</module>
     </modules>
